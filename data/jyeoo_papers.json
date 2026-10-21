@@ -1,0 +1,558 @@
+[
+  {
+    "id": "paper_jyeoo_2026_bj_hd_01",
+    "title": "2026年北京市海淀区九年级第一次综合练习（一模）数学试卷",
+    "subject": "math",
+    "grade": "初三（九年级）",
+    "year": "2026",
+    "province": "北京",
+    "termType": "一模",
+    "questionCount": 24,
+    "totalScore": 100,
+    "duration": 120,
+    "difficulty": 4,
+    "source": "2026·北京海淀一模",
+    "downloadCount": 18450,
+    "questions": [
+      {
+        "subject": "math",
+        "grade": "初三（九年级）",
+        "stem": "截至2026年，我国空间站科学实验已取得多项突破性成果，某项核心微重力数据测量误差不超过0.000000038秒。将数据0.000000038用科学记数法表示为（　　）",
+        "options": [
+          { "pos": "A", "text": "3.8 × 10^-8" },
+          { "pos": "B", "text": "3.8 × 10^-7" },
+          { "pos": "C", "text": "0.38 × 10^-7" },
+          { "pos": "D", "text": "38 × 10^-9" }
+        ],
+        "answer": "A",
+        "explanation": "【分析】绝对值小于1的正数也可以利用科学记数法表示，一般形式为 a×10^-n，其中 1≤|a|<10，n为由原数左边起第一个不为零的数字前面的0的个数所决定。\n【解答】0.000000038 = 3.8 × 10^-8。故选：A。",
+        "difficulty": 2,
+        "source": "2026·北京海淀一模第1题",
+        "kp": ["科学记数法", "负整数指数幂"]
+      },
+      {
+        "subject": "math",
+        "grade": "初三（九年级）",
+        "stem": "如图，在平面直角坐标系中，反比例函数 y = k/x (k≠0, x>0) 与一次函数 y = -x + 4 的图象交于点 A(1, m) 和点 B(3, n)。若反比例函数图象上一点 P 的纵坐标小于点 A 的纵坐标且大于点 B 的纵坐标，则点 P 的横坐标 x 的取值范围是（　　）",
+        "options": [
+          { "pos": "A", "text": "x < 1" },
+          { "pos": "B", "text": "1 < x < 3" },
+          { "pos": "C", "text": "x > 3" },
+          { "pos": "D", "text": "0 < x < 3" }
+        ],
+        "answer": "B",
+        "explanation": "【分析】由点 A(1, m) 在一次函数 y = -x + 4 上可求出 m = 3，故 A(1, 3)。点 B(3, n) 在一次函数上可求出 n = 1，故 B(3, 1)。\n因为反比例函数在第一象限单调递减，点 P 的纵坐标小于 3 且大于 1，对应自变量 x 必然满足 1 < x < 3。故选：B。",
+        "difficulty": 3,
+        "source": "2026·北京海淀一模第6题",
+        "kp": ["反比例函数综合", "一次函数与不等式"]
+      },
+      {
+        "subject": "math",
+        "grade": "初三（九年级）",
+        "stem": "在平面直角坐标系 xOy 中，抛物线 y = ax² - 2ax + c (a≠0) 与 x 轴交于 A(-1, 0)、B 两点，与 y 轴交于点 C(0, 3)。下列结论：① 对称轴为直线 x = 1；② 抛物线开口向上；③ 点 B 的坐标为 (3, 0)；④ 当 x > 1 时，y 随 x 的增大而减小。其中正确的个数是（　　）",
+        "options": [
+          { "pos": "A", "text": "1个" },
+          { "pos": "B", "text": "2个" },
+          { "pos": "C", "text": "3个" },
+          { "pos": "D", "text": "4个" }
+        ],
+        "answer": "C",
+        "explanation": "【分析】对称轴 x = -(-2a)/(2a) = 1，①正确；由 A(-1, 0) 及 C(0, 3) 代入得 a = -1 < 0，抛物线开口向下，②错误；对称轴 x = 1，由 A(-1, 0) 得 B 点关于 x=1 对称为 (3, 0)，③正确；a = -1 开口向下，对称轴右侧 x > 1 时 y 随 x 增大而减小，④正确。正确个数为 3 个。故选：C。",
+        "difficulty": 4,
+        "source": "2026·北京海淀一模第8题",
+        "kp": ["二次函数性质", "二次函数图象与系数关系"]
+      },
+      {
+        "subject": "math",
+        "grade": "初三（九年级）",
+        "stem": "如图，在 △ABC 中，∠ACB = 90°，AC = BC = 4。点 D 是边 AB 的中点，点 E 在线段 CD 上，连接 BE。过点 C 作 CF ⊥ BE 于点 F，连接 DF。当点 E 从点 C 运动到点 D 时，线段 DF 长度的最小值为（　　）",
+        "options": [
+          { "pos": "A", "text": "√2 - 1" },
+          { "pos": "B", "text": "2 - √2" },
+          { "pos": "C", "text": "2√2 - 2" },
+          { "pos": "D", "text": "1" }
+        ],
+        "answer": "B",
+        "explanation": "【分析】本题考查点在圆上的隐形圆轨迹求最值。因为 CF ⊥ BE，故 ∠CFB = 90°。以 BC 为直径构造辅助圆 O，直径为 BC = 4，半径 R = 2，圆心为 BC 中点 O。点 F 的轨迹即为圆 O 上的圆弧。\n点 D 是 AB 中点，连接 OD，由三角形中位线定理得 OD = 1/2 AC = 2。线段 DF 的最小值为点 D 到圆心 O 的距离减去半径，即 DF_min = |OD - R|，通过精准坐标系计算得最小值为 2 - √2。故选：B。",
+        "difficulty": 5,
+        "source": "2026·北京海淀一模压轴第16题",
+        "kp": ["隐形圆模型", "几何最值问题", "直角三角形斜边中线"]
+      }
+    ]
+  },
+  {
+    "id": "paper_jyeoo_2026_hb_hg_01",
+    "title": "2026年湖北省黄冈市初中毕业生学业水平考试模拟（中考预测）数学卷",
+    "subject": "math",
+    "grade": "初三（九年级）",
+    "year": "2026",
+    "province": "湖北",
+    "termType": "中考真题",
+    "questionCount": 24,
+    "totalScore": 120,
+    "duration": 120,
+    "difficulty": 4,
+    "source": "2026·黄冈中考模考",
+    "downloadCount": 23100,
+    "questions": [
+      {
+        "subject": "math",
+        "grade": "初三（九年级）",
+        "stem": "化简分式 (x² - 4)/(x² - 4x + 4) ÷ (x + 2)/(x - 2) 的结果是（　　）",
+        "options": [
+          { "pos": "A", "text": "1" },
+          { "pos": "B", "text": "(x + 2)/(x - 2)" },
+          { "pos": "C", "text": "x - 2" },
+          { "pos": "D", "text": "(x - 2)/(x + 2)" }
+        ],
+        "answer": "A",
+        "explanation": "【分析】分子分母分别进行因式分解：原式 = [(x + 2)(x - 2)]/(x - 2)² × (x - 2)/(x + 2) = (x + 2)/(x - 2) × (x - 2)/(x + 2) = 1。故选：A。",
+        "difficulty": 2,
+        "source": "2026·黄冈中考模考第3题",
+        "kp": ["分式的乘除法", "因式分解"]
+      },
+      {
+        "subject": "math",
+        "grade": "初三（九年级）",
+        "stem": "某校开展“书香校园”读书活动，九年级某班40名同学在一周内借阅图书本数的频数分布统计如下表。则这组数据的中位数和众数分别是（　　）\n借阅本数：2本 (6人)，3本 (12人)，4本 (14人)，5本 (8人)",
+        "options": [
+          { "pos": "A", "text": "3.5本，4本" },
+          { "pos": "B", "text": "4本，4本" },
+          { "pos": "C", "text": "4本，3本" },
+          { "pos": "D", "text": "3本，4本" }
+        ],
+        "answer": "B",
+        "explanation": "【分析】40个数据的中位数是第20个和第21个数据的平均数。前两组共 6+12=18 人，第20、21位均落在借阅4本中，中位数是 4；出现次数最多的是借阅4本（14人），众数是 4。故选：B。",
+        "difficulty": 2,
+        "source": "2026·黄冈中考模考第5题",
+        "kp": ["数据的收集与整理", "中位数与众数"]
+      },
+      {
+        "subject": "math",
+        "grade": "初三（九年级）",
+        "stem": "已知二次函数 y = x² - 2mx + m² - 1 的图象与 x 轴交于 A(x₁, 0)、B(x₂, 0) 两点，且满足 x₁² + x₂² = 10，则实数 m 的值为（　　）",
+        "options": [
+          { "pos": "A", "text": "±2" },
+          { "pos": "B", "text": "2" },
+          { "pos": "C", "text": "±√2" },
+          { "pos": "D", "text": "4" }
+        ],
+        "answer": "A",
+        "explanation": "【分析】由韦达定理得：x₁ + x₂ = 2m，x₁x₂ = m² - 1。\n因为 x₁² + x₂² = (x₁ + x₂)² - 2x₁x₂ = (2m)² - 2(m² - 1) = 2m² + 2 = 10，得 2m² = 8，m² = 4，m = ±2。\n判别式 Δ = (-2m)² - 4(m² - 1) = 4 > 0 恒成立。故 m = ±2。故选：A。",
+        "difficulty": 4,
+        "source": "2026·黄冈中考模考第9题",
+        "kp": ["一元二次方程根与系数的关系", "二次函数与坐标轴交点"]
+      }
+    ]
+  },
+  {
+    "id": "paper_jyeoo_2026_bj_xc_math8",
+    "title": "2025-2026学年北京市西城区八年级第一学期期末考试数学试卷",
+    "subject": "math",
+    "grade": "初二（八年级）",
+    "year": "2026",
+    "province": "北京",
+    "termType": "期末",
+    "questionCount": 26,
+    "totalScore": 100,
+    "duration": 100,
+    "difficulty": 3,
+    "source": "2026·北京西城期末",
+    "downloadCount": 16200,
+    "questions": [
+      {
+        "subject": "math",
+        "grade": "初二（八年级）",
+        "stem": "下列图形中，既是轴对称图形又是中心对称图形的是（　　）",
+        "options": [
+          { "pos": "A", "text": "等边三角形" },
+          { "pos": "B", "text": "平行四边形" },
+          { "pos": "C", "text": "矩形" },
+          { "pos": "D", "text": "正五边形" }
+        ],
+        "answer": "C",
+        "explanation": "【分析】等边三角形是轴对称图形但不是中心对称图形；平行四边形是中心对称图形但不是轴对称图形；矩形既是轴对称图形又是中心对称图形；正五边形是轴对称图形但不是中心对称图形。故选：C。",
+        "difficulty": 2,
+        "source": "2026·北京西城期末第2题",
+        "kp": ["中心对称图形", "轴对称图形"]
+      },
+      {
+        "subject": "math",
+        "grade": "初二（八年级）",
+        "stem": "如图，在 △ABC 中，AB = AC，∠A = 36°，AB 的垂直平分线 MN 交 AC 于点 D，交 AB 于点 M。下列结论中不正确的是（　　）",
+        "options": [
+          { "pos": "A", "text": "BD 是 ∠ABC 的平分线" },
+          { "pos": "B", "text": "△BCD 是等腰三角形" },
+          { "pos": "C", "text": "△ABC ∽ △BCD" },
+          { "pos": "D", "text": "点 D 是线段 AC 的中点" }
+        ],
+        "answer": "D",
+        "explanation": "【分析】由 AB = AC，∠A = 36° 得 ∠ABC = ∠C = 72°。由垂直平分线知 DA = DB，所以 ∠ABD = ∠A = 36°，∠DBC = 72° - 36° = 36°，故 BD 平分 ∠ABC，A正确；∠BDC = 180° - 36° - 72° = 72° = ∠C，故 △BCD 为等腰三角形，B正确；△ABC ∽ △BCD 对应角相等，C正确；点 D 为黄金分割点，不是中点，D错误。故选：D。",
+        "difficulty": 3,
+        "source": "2026·北京西城期末第7题",
+        "kp": ["等腰三角形的性质", "线段垂直平分线的性质", "黄金分割"]
+      }
+    ]
+  },
+  {
+    "id": "paper_jyeoo_2026_sh_ja_math7",
+    "title": "2025-2026学年上海市静安区七年级上学期期中考试数学试卷",
+    "subject": "math",
+    "grade": "初一（七年级）",
+    "year": "2026",
+    "province": "上海",
+    "termType": "期中",
+    "questionCount": 25,
+    "totalScore": 100,
+    "duration": 90,
+    "difficulty": 3,
+    "source": "2026·上海静安期中",
+    "downloadCount": 12800,
+    "questions": [
+      {
+        "subject": "math",
+        "grade": "初一（七年级）",
+        "stem": "-2026 的绝对值的相反数是（　　）",
+        "options": [
+          { "pos": "A", "text": "2026" },
+          { "pos": "B", "text": "-2026" },
+          { "pos": "C", "text": "1/2026" },
+          { "pos": "D", "text": "-1/2026" }
+        ],
+        "answer": "B",
+        "explanation": "【分析】|-2026| = 2026，其相反数为 -2026。故选：B。",
+        "difficulty": 1,
+        "source": "2026·上海静安期中第1题",
+        "kp": ["绝对值", "相反数"]
+      },
+      {
+        "subject": "math",
+        "grade": "初一（七年级）",
+        "stem": "若单项式 3x^(2a) y³ 与 -2x⁴ y^(b+1) 是同类项，则 a + b 的值是（　　）",
+        "options": [
+          { "pos": "A", "text": "2" },
+          { "pos": "B", "text": "3" },
+          { "pos": "C", "text": "4" },
+          { "pos": "D", "text": "5" }
+        ],
+        "answer": "C",
+        "explanation": "【分析】同类项所含字母相同，相同字母的指数相同。所以 2a = 4 得 a = 2，b + 1 = 3 得 b = 2。因此 a + b = 2 + 2 = 4。故选：C。",
+        "difficulty": 2,
+        "source": "2026·上海静安期中第5题",
+        "kp": ["同类项的概念", "解一元一次方程"]
+      }
+    ]
+  },
+  {
+    "id": "paper_jyeoo_2026_nj_physics8",
+    "title": "2025-2026学年江苏省南京市金陵中学八年级下学期期中考试物理试卷",
+    "subject": "physics",
+    "grade": "初二（八年级）",
+    "year": "2026",
+    "province": "江苏",
+    "termType": "期中",
+    "questionCount": 28,
+    "totalScore": 100,
+    "duration": 90,
+    "difficulty": 4,
+    "source": "2026·南京金陵中学物理期中",
+    "downloadCount": 14200,
+    "questions": [
+      {
+        "subject": "physics",
+        "grade": "初二（八年级）",
+        "stem": "关于质量和密度，下列说法正确的是（　　）",
+        "options": [
+          { "pos": "A", "text": "冰熔化成水后，质量变小，密度变大" },
+          { "pos": "B", "text": "宇航员把月壤带回地球，其质量不变" },
+          { "pos": "C", "text": "氧气瓶内氧气用去一半，瓶内剩余氧气密度不变" },
+          { "pos": "D", "text": "给自行车轮胎打气，胎内气体质量变大，密度不变" }
+        ],
+        "answer": "B",
+        "explanation": "【分析】质量是物质的固有属性，不随形状、状态、位置改变，月壤带回地球质量不变，B正确；冰熔化成水质量不变，A错误；气体体积充满整个容器，用去一半后质量减半体积不变，密度减半，C错误；轮胎容积基本固定，打气质量变大体积不变，密度变大，D错误。故选：B。",
+        "difficulty": 2,
+        "source": "2026·南京金陵中学物理期中第2题",
+        "kp": ["质量的特性", "密度的概念与应用"]
+      },
+      {
+        "subject": "physics",
+        "grade": "初二（八年级）",
+        "stem": "如图所示，将一个重为 6N 的实心物体浸没在盛满水的溢水杯中，从溢水杯中溢出了 4N 的水，若将该物体从水中取出后放入足量酒精中 (ρ酒精 = 0.8 × 10³ kg/m³)，静止时物体受到的浮力是（g取10N/kg）（　　）",
+        "options": [
+          { "pos": "A", "text": "6N" },
+          { "pos": "B", "text": "4N" },
+          { "pos": "C", "text": "3.2N" },
+          { "pos": "D", "text": "4.8N" }
+        ],
+        "answer": "C",
+        "explanation": "【分析】浸没水中溢出 4N 水，根据阿基米德原理 F_浮水 = G_排 = 4N。因为 G = 6N > F_浮水，所以在水中下沉，V_排 = V_物 = F_浮水/(ρ水g) = 4/(1.0×10³×10) = 4×10^-4 m³。\n物体的密度 ρ物 = G/(g V_物) = 6/(10×4×10^-4) = 1.5×10³ kg/m³ > ρ酒精，因此物体在酒精中仍然沉底，排开酒精体积等于物身体积。\n受到的浮力 F_浮酒 = ρ酒 g V_排 = 0.8×10³ × 10 × 4×10^-4 = 3.2N。故选：C。",
+        "difficulty": 4,
+        "source": "2026·南京金陵中学物理期中第10题",
+        "kp": ["阿基米德原理", "物体的浮沉条件及应用"]
+      }
+    ]
+  },
+  {
+    "id": "paper_jyeoo_2026_bj_hd_physics9",
+    "title": "2026年北京市海淀区九年级第一次综合练习（一模）物理试卷",
+    "subject": "physics",
+    "grade": "初三（九年级）",
+    "year": "2026",
+    "province": "北京",
+    "termType": "一模",
+    "questionCount": 26,
+    "totalScore": 70,
+    "duration": 70,
+    "difficulty": 4,
+    "source": "2026·海淀初三物理一模",
+    "downloadCount": 17800,
+    "questions": [
+      {
+        "subject": "physics",
+        "grade": "初三（九年级）",
+        "stem": "在如图所示的电路中，电源两端电压保持不变。闭合开关 S，滑动变阻器的滑片 P 向右移动的过程中，下列说法正确的是（　　）",
+        "options": [
+          { "pos": "A", "text": "电流表 A 的示数变大，电压表 V 的示数变大" },
+          { "pos": "B", "text": "电流表 A 的示数变小，电压表 V 的示数变小" },
+          { "pos": "C", "text": "电压表 V 与电流表 A 示数的比值变大" },
+          { "pos": "D", "text": "电路消耗的总功率变大" }
+        ],
+        "answer": "C",
+        "explanation": "【分析】电路中定值电阻 R1 与滑动变阻器 R2 串联，电压表测 R2 两端电压。滑片向右移动，R2 阻值变大，总电阻变大，电路电流变小，A 示数变小；根据分压原理，R2 两端电压变大，V 示数变大。比值 V/A 为 R2 阻值，故比值变大。故选：C。",
+        "difficulty": 3,
+        "source": "2026·海淀初三物理一模第8题",
+        "kp": ["欧姆定律的应用", "动态电路分析", "串联电路分压"]
+      }
+    ]
+  },
+  {
+    "id": "paper_jyeoo_2026_sh_hp_chem9",
+    "title": "2025-2026学年上海市黄浦区初三第一学期期末学业质量调研化学试卷",
+    "subject": "chemistry",
+    "grade": "初三（九年级）",
+    "year": "2026",
+    "province": "上海",
+    "termType": "期末",
+    "questionCount": 25,
+    "totalScore": 50,
+    "duration": 60,
+    "difficulty": 3,
+    "source": "2026·上海黄浦初三期末",
+    "downloadCount": 11300,
+    "questions": [
+      {
+        "subject": "chemistry",
+        "grade": "初三（九年级）",
+        "stem": "下列物质在氧气中燃烧，产生大量白烟的是（　　）",
+        "options": [
+          { "pos": "A", "text": "木炭" },
+          { "pos": "B", "text": "红磷" },
+          { "pos": "C", "text": "铁丝" },
+          { "pos": "D", "text": "硫磺" }
+        ],
+        "answer": "B",
+        "explanation": "【分析】红磷在氧气中燃烧产生五氧化二磷白色固体小颗粒，现象为产生大量白烟；木炭燃烧发出白光；铁丝燃烧火星四射；硫燃烧产生蓝紫色火焰。故选：B。",
+        "difficulty": 2,
+        "source": "2026·上海黄浦初三期末第3题",
+        "kp": ["氧气与碳、磷、硫、铁等物质的反应现象"]
+      },
+      {
+        "subject": "chemistry",
+        "grade": "初三（九年级）",
+        "stem": "化学方程式 2H₂O₂ =(MnO₂) 2H₂O + O₂↑ 表达的含义，错误的是（　　）",
+        "options": [
+          { "pos": "A", "text": "过氧化氢在二氧化锰催化下分解生成水和氧气" },
+          { "pos": "B", "text": "每2个过氧化氢分子分解产生2个水分子和1个氧分子" },
+          { "pos": "C", "text": "每68份质量的过氧化氢完全反应生成36份质量的水和32份质量的氧气" },
+          { "pos": "D", "text": "二氧化锰作为反应物参与反应并消耗" }
+        ],
+        "answer": "D",
+        "explanation": "【分析】二氧化锰在该反应中是催化剂，其质量和化学性质在反应前后均保持不变，不是反应物，D错误。故选：D。",
+        "difficulty": 2,
+        "source": "2026·上海黄浦初三期末第8题",
+        "kp": ["化学方程式的含义", "催化剂的特点与催化作用"]
+      }
+    ]
+  },
+  {
+    "id": "paper_jyeoo_2026_bj_hd_chinese9",
+    "title": "2026年北京市海淀区中考语文模拟测评卷（新课标核心素养）",
+    "subject": "chinese",
+    "grade": "初三（九年级）",
+    "year": "2026",
+    "province": "北京",
+    "termType": "中考真题",
+    "questionCount": 22,
+    "totalScore": 100,
+    "duration": 120,
+    "difficulty": 4,
+    "source": "2026·北京海淀中考语文模拟",
+    "downloadCount": 19500,
+    "questions": [
+      {
+        "subject": "chinese",
+        "grade": "初三（九年级）",
+        "stem": "下列词语中加点字的注音完全正确的一项是（　　）",
+        "options": [
+          { "pos": "A", "text": "瞥见（piē） 气冲斗牛（dǒu） 潜滋暗长（qián）" },
+          { "pos": "B", "text": "恪守（gè） 间不容发（fā） 矫揉造作（jiǎo）" },
+          { "pos": "C", "text": "拮据（jū） 挑拨离间（jiàn） 强词夺理（qiáng）" },
+          { "pos": "D", "text": "鲜见（xiǎn） 广袤无垠（mào） 自惭形秽（suì）" }
+        ],
+        "answer": "A",
+        "explanation": "【分析】B项恪守应为 kè；C项强词夺理应为 qiǎng；D项自惭形秽应为 huì。A项全部正确。故选：A。",
+        "difficulty": 2,
+        "source": "2026·海淀中考语文基础第1题",
+        "kp": ["字音字形辨析", "多音字识别"]
+      }
+    ]
+  },
+  {
+    "id": "paper_jyeoo_2026_hz_english9",
+    "title": "2026年浙江省杭州市初三英语中考冲刺模拟诊断试卷",
+    "subject": "english",
+    "grade": "初三（九年级）",
+    "year": "2026",
+    "province": "浙江",
+    "termType": "中考真题",
+    "questionCount": 35,
+    "totalScore": 120,
+    "duration": 100,
+    "difficulty": 3,
+    "source": "2026·杭州中考英语预测",
+    "downloadCount": 21800,
+    "questions": [
+      {
+        "subject": "english",
+        "grade": "初三（九年级）",
+        "stem": "— Could you please tell me ________ yesterday?\n— In the central city library. We were doing science research together.",
+        "options": [
+          { "pos": "A", "text": "where you met" },
+          { "pos": "B", "text": "where did you meet" },
+          { "pos": "C", "text": "when you met" },
+          { "pos": "D", "text": "how you met" }
+        ],
+        "answer": "A",
+        "explanation": "【分析】宾语从句必须使用陈述语序（引导词 + 主语 + 谓语），排除 B；根据答语“In the central city library”可知提问地点，故引导词用 where。故选：A。",
+        "difficulty": 3,
+        "source": "2026·杭州中考英语单选第5题",
+        "kp": ["宾语从句的陈述语序", "疑问副词引导词用法"]
+      }
+    ]
+  },
+  {
+    "id": "paper_jyeoo_2026_bj_hd_math_grade4",
+    "title": "2025-2026学年北京市海淀区四年级第二学期期末考试数学试卷",
+    "subject": "math",
+    "grade": "四年级",
+    "year": "2026",
+    "province": "北京",
+    "termType": "期末",
+    "questionCount": 25,
+    "totalScore": 100,
+    "duration": 80,
+    "difficulty": 3,
+    "source": "2026·海淀小学四年级期末",
+    "downloadCount": 13900,
+    "questions": [
+      {
+        "subject": "math",
+        "grade": "四年级",
+        "stem": "用简便方法计算 125 × 32 × 25，下列变形最简便的是（　　）",
+        "options": [
+          { "pos": "A", "text": "125 × 30 + 125 × 2 × 25" },
+          { "pos": "B", "text": "(125 × 8) × (4 × 25)" },
+          { "pos": "C", "text": "125 × 4 × 8 × 25" },
+          { "pos": "D", "text": "(125 + 25) × 32" }
+        ],
+        "answer": "B",
+        "explanation": "【分析】32 可以拆分为 8 × 4，利用乘法结合律 (125 × 8) × (4 × 25) = 1000 × 100 = 100000。故选：B。",
+        "difficulty": 2,
+        "source": "2026·海淀小学四年级期末第4题",
+        "kp": ["乘法结合律与分配律简便运算"]
+      }
+    ]
+  },
+  {
+    "id": "paper_jyeoo_2026_nj_xiaoshengchu_math",
+    "title": "2026年江苏省南京市重点中学小升初数学压轴模拟冲刺测试卷",
+    "subject": "math",
+    "grade": "六年级",
+    "year": "2026",
+    "province": "江苏",
+    "termType": "中考真题",
+    "questionCount": 24,
+    "totalScore": 100,
+    "duration": 90,
+    "difficulty": 4,
+    "source": "2026·南京小升初名校冲刺",
+    "downloadCount": 26800,
+    "questions": [
+      {
+        "subject": "math",
+        "grade": "六年级",
+        "stem": "一项工程，甲队单独做需要 12 天完成，乙队单独做需要 15 天完成。现在甲队先单独做 3 天，剩下的由甲、乙两队合做，还需要多少天完成？（　　）",
+        "options": [
+          { "pos": "A", "text": "4天" },
+          { "pos": "B", "text": "5天" },
+          { "pos": "C", "text": "6天" },
+          { "pos": "D", "text": "7天" }
+        ],
+        "answer": "B",
+        "explanation": "【分析】甲单独做3天完成 3 × (1/12) = 1/4，剩下 1 - 1/4 = 3/4。甲乙合做每天效率为 1/12 + 1/15 = 9/60 = 3/20。剩余所需天数 = (3/4) ÷ (3/20) = 5天。故选：B。",
+        "difficulty": 3,
+        "source": "2026·南京小升初工程问题应用题",
+        "kp": ["分数工程问题", "分数四则混合运算"]
+      }
+    ]
+  },
+  {
+    "id": "paper_jyeoo_2026_nation_gaokao_math",
+    "title": "2026年普通高等学校招生全国统一考试高考数学模拟试卷（新高考I卷）",
+    "subject": "math",
+    "grade": "高三",
+    "year": "2026",
+    "province": "全国",
+    "termType": "高考真题",
+    "questionCount": 19,
+    "totalScore": 150,
+    "duration": 120,
+    "difficulty": 5,
+    "source": "2026·新高考I卷精选预测",
+    "downloadCount": 35800,
+    "questions": [
+      {
+        "subject": "math",
+        "grade": "高三",
+        "stem": "已知集合 A = {x | x² - 2x - 3 < 0}，集合 B = {x | 2^x > 2}，则 A ∩ B =（　　）",
+        "options": [
+          { "pos": "A", "text": "(-1, 3)" },
+          { "pos": "B", "text": "(1, 3)" },
+          { "pos": "C", "text": "(0, 3)" },
+          { "pos": "D", "text": "(1, +∞)" }
+        ],
+        "answer": "B",
+        "explanation": "【分析】解不等式 x² - 2x - 3 < 0 得 (x - 3)(x + 1) < 0，即 A = (-1, 3)；解 2^x > 2 得 x > 1，即 B = (1, +∞)。求交集 A ∩ B = (1, 3)。故选：B。",
+        "difficulty": 2,
+        "source": "2026·新高考I卷第1题",
+        "kp": ["交集及其运算", "一元二次不等式的解法", "指数函数的性质"]
+      },
+      {
+        "subject": "math",
+        "grade": "高三",
+        "stem": "已知向量 a = (1, 2)，b = (2, -1)，若 (a + λb) ⊥ a，则实数 λ 的值为（　　）",
+        "options": [
+          { "pos": "A", "text": "-5" },
+          { "pos": "B", "text": "5" },
+          { "pos": "C", "text": "不存在" },
+          { "pos": "D", "text": "0" }
+        ],
+        "answer": "C",
+        "explanation": "【分析】a · b = 1×2 + 2×(-1) = 0，即 a ⊥ b。因为 (a + λb) · a = |a|² + λ(b · a) = 1² + 2² + 0 = 5 ≠ 0。无论 λ 取何实数，数量积恒等于 5，不可能为0，故实数 λ 不存在。故选：C。",
+        "difficulty": 3,
+        "source": "2026·新高考I卷第4题",
+        "kp": ["平面向量数量积的坐标表示", "数量积判断两向量垂直"]
+      }
+    ]
+  }
+]
